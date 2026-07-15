@@ -33,8 +33,9 @@
 
     Output: 
 
-          <img width="1411" height="1001" alt="image" src="https://github.com/user-attachments/assets/bce587a7-088a-45e3-884a-0582a9ecf703" />
-          <img width="782" height="362" alt="image" src="https://github.com/user-attachments/assets/10b1bdec-3ea2-426a-bdba-f68c7fbad53a" />
+
+<img width="1411" height="1001" alt="image" src="https://github.com/user-attachments/assets/bce587a7-088a-45e3-884a-0582a9ecf703" />
+<img width="782" height="362" alt="image" src="https://github.com/user-attachments/assets/10b1bdec-3ea2-426a-bdba-f68c7fbad53a" />
 
 
  **Practical 2: Service Selector Practical**
