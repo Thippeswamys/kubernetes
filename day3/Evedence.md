@@ -9,7 +9,7 @@ kubectl get nodes,
 kubectl get pods -A"
 
 Output: 
-      <img width="1167" height="660" alt="image" src="https://github.com/user-attachments/assets/d33ed317-59e4-46f2-8230-780f6cb245bd" />
+<img width="1167" height="660" alt="image" src="https://github.com/user-attachments/assets/d33ed317-59e4-46f2-8230-780f6cb245bd" />
 
 Step 2: Create Namespace
 
@@ -18,7 +18,7 @@ Step 2: Create Namespace
       kubectl get namespace tsday3"
 
     output:
-          <img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/a1ee85bf-dd0a-4b11-b091-3b9f4b0e27d1" />
+<img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/a1ee85bf-dd0a-4b11-b091-3b9f4b0e27d1" />
 
 Step 3: Deploy The Web Application
 
@@ -30,7 +30,7 @@ Ran following commands:
 
 Output:
 
-      <img width="1111" height="257" alt="image" src="https://github.com/user-attachments/assets/2851b44c-35e3-4072-a893-13d52f69dc33" />
+<img width="1111" height="257" alt="image" src="https://github.com/user-attachments/assets/2851b44c-35e3-4072-a893-13d52f69dc33" />
 
 Step 4: Create ClusterIP Service
 
@@ -42,7 +42,7 @@ Step 4: Create ClusterIP Service
 
   Output:
 
-        <img width="762" height="492" alt="image" src="https://github.com/user-attachments/assets/6da66984-1298-43e6-ae63-9058f328a742" />
+<img width="762" height="492" alt="image" src="https://github.com/user-attachments/assets/6da66984-1298-43e6-ae63-9058f328a742" />
 
   Step 5: Test ClusterIP From Inside The Cluster
         Ran following commands
@@ -62,7 +62,7 @@ Step 4: Create ClusterIP Service
 
         Output:
 
-        <img width="1316" height="837" alt="image" src="https://github.com/user-attachments/assets/f258328c-0250-4af8-aa6b-1076dba3bc92" />
+<img width="1316" height="837" alt="image" src="https://github.com/user-attachments/assets/f258328c-0250-4af8-aa6b-1076dba3bc92" />
 
   Step 6: Create NodePort Service
 
@@ -72,7 +72,7 @@ Step 4: Create ClusterIP Service
 
         Output:
 
-            <img width="876" height="487" alt="image" src="https://github.com/user-attachments/assets/a2efce4f-0cde-4914-930b-d3e76854a9a2" />
+<img width="876" height="487" alt="image" src="https://github.com/user-attachments/assets/a2efce4f-0cde-4914-930b-d3e76854a9a2" />
 
 
   Step 7: Test NodePort Access
@@ -89,7 +89,7 @@ Step 4: Create ClusterIP Service
 
       Output:
 
-            <img width="895" height="262" alt="image" src="https://github.com/user-attachments/assets/aafd1a98-691a-46d4-9ecb-6a94447cc169" />
+<img width="895" height="262" alt="image" src="https://github.com/user-attachments/assets/aafd1a98-691a-46d4-9ecb-6a94447cc169" />
 
 
   Step 8: Port Forward ClusterIP Service
@@ -99,7 +99,7 @@ Step 4: Create ClusterIP Service
 
           Output:
           
-          <img width="827" height="192" alt="image" src="https://github.com/user-attachments/assets/0feae59e-2406-4472-9b8d-671ac327eca9" />
+<img width="827" height="192" alt="image" src="https://github.com/user-attachments/assets/0feae59e-2406-4472-9b8d-671ac327eca9" />
 
 
 
