@@ -18,7 +18,6 @@ Step 2: Create Namespace
       kubectl get namespace tsday3"
 
     output:
-
           <img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/a1ee85bf-dd0a-4b11-b091-3b9f4b0e27d1" />
 
 Step 3: Deploy The Web Application
