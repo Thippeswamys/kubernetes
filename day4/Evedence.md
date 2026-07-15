@@ -48,7 +48,7 @@
 
     OutPut:
           
-          <img width="901" height="210" alt="image" src="https://github.com/user-attachments/assets/e8222402-7451-4b42-89b8-01dee2db265a" />
+<img width="901" height="210" alt="image" src="https://github.com/user-attachments/assets/e8222402-7451-4b42-89b8-01dee2db265a" />
 
 
 ** Practical 3 - ReplicaSet**
@@ -71,7 +71,7 @@
 
     Output:
 
-         <img width="937" height="372" alt="image" src="https://github.com/user-attachments/assets/d5fcdd7f-6b0e-48ce-b5f0-792cccc6e09d" />
+<img width="937" height="372" alt="image" src="https://github.com/user-attachments/assets/d5fcdd7f-6b0e-48ce-b5f0-792cccc6e09d" />
 
 **    Practical 5 - HPA**
 
@@ -111,9 +111,9 @@
     kubectl get pods -n day4 -l app=php-apache -w
 
     Output:
-          <img width="1902" height="666" alt="image" src="https://github.com/user-attachments/assets/94fa6032-83a4-4cf5-b0e0-0448d03f108a" />
-          <img width="1891" height="642" alt="image" src="https://github.com/user-attachments/assets/79ee23c9-1ca8-4a43-b58f-921efbad5579" />
-          <img width="1015" height="461" alt="image" src="https://github.com/user-attachments/assets/47bb6945-ba08-4e7c-b02d-0d50d5712161" />
+<img width="1902" height="666" alt="image" src="https://github.com/user-attachments/assets/94fa6032-83a4-4cf5-b0e0-0448d03f108a" />
+<img width="1891" height="642" alt="image" src="https://github.com/user-attachments/assets/79ee23c9-1ca8-4a43-b58f-921efbad5579" />
+<img width="1015" height="461" alt="image" src="https://github.com/user-attachments/assets/47bb6945-ba08-4e7c-b02d-0d50d5712161" />
 
 
 **Practical 5 - Namespace RBAC**
@@ -139,8 +139,8 @@
     kubectl auth can-i delete pods --as=system:serviceaccount:day4:dev-user -n day4
     
     Output:
-          
-              <img width="947" height="391" alt="image" src="https://github.com/user-attachments/assets/a647cb99-6be7-4551-aac6-ee1d6be46150" />
+
+<img width="947" height="391" alt="image" src="https://github.com/user-attachments/assets/a647cb99-6be7-4551-aac6-ee1d6be46150" />
 
 
 
@@ -159,5 +159,5 @@
 
       Output:
 
-            <img width="936" height="217" alt="image" src="https://github.com/user-attachments/assets/e4b24886-9abd-4654-9b30-1849ddb241bf" />
+<img width="936" height="217" alt="image" src="https://github.com/user-attachments/assets/e4b24886-9abd-4654-9b30-1849ddb241bf" />
 
